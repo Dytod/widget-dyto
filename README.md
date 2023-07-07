@@ -1,3 +1,7 @@
+# UAS LAB PBK
+NAMA : Frans Dyto Ependri
+NPM : 213510362
+
 # my-app
 
 ## Project setup
